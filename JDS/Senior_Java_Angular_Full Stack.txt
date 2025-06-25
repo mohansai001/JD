@@ -1,0 +1,31 @@
+Senior Full Stack Engineer (4–7 years)
+Location: [Your Location or Remote]
+Experience: 4–7 years
+Type: Full-Time
+
+Responsibilities
+Design, develop, and maintain complex web applications and APIs.
+
+Architect scalable and secure solutions across frontend and backend.
+
+Mentor junior developers and conduct code reviews.
+
+Collaborate closely with product, design, and DevOps teams.
+
+Continuously improve performance, security, and scalability of the system.
+
+Required Skills
+Proficient in modern JavaScript (ES6+), React or Angular, and backend technologies like Node.js, Django, or Spring Boot.
+
+Deep understanding of REST APIs, microservices, and database design (SQL and NoSQL).
+
+Experience with CI/CD pipelines, cloud services (AWS/GCP/Azure), and Docker.
+
+Strong debugging, problem-solving, and performance tuning skills.
+
+Qualifications
+Bachelor’s/Master’s degree in Computer Science or related field.
+
+Proven experience in full lifecycle software development.
+
+Excellent communication and leadership skills.
