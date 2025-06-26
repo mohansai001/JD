@@ -1,0 +1,18 @@
+Lead Azure Site Reliability Engineer
+Role Overview:
+As a Lead Azure Site Reliability Engineer, you will define SRE best practices and strategies for Azure environments, focusing on system reliability, scalability, and security. You’ll manage Azure infrastructure, lead automation projects, and guide a team of engineers.
+
+Key Responsibilities:
+
+Define and implement SRE strategies and reliability practices for critical Azure infrastructure.
+Automate incident response, monitoring, and disaster recovery processes with Infrastructure as Code.
+Establish and oversee security, compliance, and cost optimization strategies within Azure environments.
+Mentor and coach SRE team members, fostering a culture of reliability and excellence.
+Collaborate with product, DevOps, and security teams to align Azure infrastructure with business goals.
+Key Skills:
+
+Expert knowledge of Azure platform, architecture, and reliability best practices.
+Advanced skills in Infrastructure as Code (Terraform, ARM Templates) and automation.
+Proficiency in incident management, root-cause analysis, and monitoring.
+Strong leadership, mentoring, and cross-functional collaboration skills.
+Experience with cost management, security, and compliance within Azure environments.

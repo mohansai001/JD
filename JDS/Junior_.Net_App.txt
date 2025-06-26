@@ -1,0 +1,19 @@
+Job Title: Junior .NET Developer
+Role Overview:
+As a Junior .NET Developer, you will assist in the development, testing, and maintenance of .NET applications. You’ll work closely with senior developers to build scalable applications while enhancing your coding and problem-solving skills.
+
+Key Responsibilities:
+Develop, test, and maintain .NET applications using C#, ASP.NET MVC/Core, and Web API.
+Collaborate with cross-functional teams to implement new features and improve existing functionality.
+Debug and resolve software defects, performance issues, and application errors.
+Write clean, scalable, and efficient code following best practices.
+Work with SQL Server and other relational databases for data management.
+Participate in code reviews to ensure high-quality development.
+Assist in deploying applications and troubleshooting production issues.
+Key Skills:
+Basic experience with C#, .NET Framework/.NET Core, ASP.NET MVC, Web API.
+Understanding of HTML, CSS, JavaScript, and front-end frameworks (Angular, React, or Vue.js is a plus).
+Familiarity with SQL Server, Entity Framework, and ORM tools.
+Knowledge of version control systems like Git.
+Strong problem-solving and communication skills.
+Willingness to learn and adapt to new .NET technologies and development methodologies.

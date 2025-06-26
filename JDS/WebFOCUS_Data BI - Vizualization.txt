@@ -1,0 +1,71 @@
+WebFOCUS Developer
+
+Job Title: WebFOCUS Developer
+Primary skills:   WebFOCUS, SQL, 
+Secondary skills: PowerBi, Tableau
+Mode of work: Work from Office
+Experience: 2 to 4 Years.
+About the job
+We are seeking a skilled and experienced WebFOCUS Developer to join our team. The ideal candidate will have expertise in designing, developing, and implementing business intelligence (BI) solutions using WebFOCUS. You will be responsible for creating dashboards, reports, and analytics to support business decision-making. This role involves close collaboration with business analysts, data architects, and end-users to deliver tailored solutions that meet organizational goals.
+
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+Responsibilities
+• Develop and maintain WebFOCUS applications:
+Design, code, test, and deploy reports, dashboards, and other BI solutions.
+• Requirements gathering:
+Work closely with stakeholders to understand reporting and analytics needs, translating them into technical solutions.
+• Data integration:
+Integrate WebFOCUS applications with multiple data sources, including relational databases, flat files, and APIs.
+• Performance optimization:
+Ensure WebFOCUS applications are optimized for speed, scalability, and reliability.
+• Dashboard and report design:
+Create visually appealing and user-friendly dashboards and reports with advanced formatting and interactivity.
+• Support and troubleshooting:
+Provide ongoing maintenance and resolve issues with existing WebFOCUS applications, ensuring minimal downtime.
+• Documentation:
+Prepare technical and user documentation, including best practices and design specifications.
+• Stay updated:
+Keep up with the latest WebFOCUS features, updates, and trends to recommend and implement new functionalities.
+
+
+
+Requirements Must Have:
+
+•	2 to 4 years of experience developing and maintaining WebFOCUS applications.
+•	Expertise in creating advanced WebFOCUS reports, dashboards, and portals.
+•	Hands-on experience with WebFOCUS Designer, Report Painter, InfoAssist, and App Studio.
+•	Experience with FOCUS databases, Master Files (MAS), and Access Files (ACX).
+•	Knowledge of relational databases like SQL Server, Oracle, or DB2.
+•	Familiarity with scripting languages (e.g., JavaScript) and HTML/CSS for portal customization.
+•	Strong problem-solving skills and attention to detail.
+•	Excellent communication and teamwork skills.
+
+Good to have skills:
+
+•	Certification in WebFOCUS or other BI tools.
+•	Experience with other BI tools (e.g., Tableau, Power BI) is a plus.
+•	Familiarity with Agile or Scrum methodologies.
+•	Experience in cloud-based deployments (e.g., AWS, Azure) for WebFOCUS
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****

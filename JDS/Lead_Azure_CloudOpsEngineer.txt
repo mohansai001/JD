@@ -1,0 +1,19 @@
+Lead Azure CloudOps Engineer
+Role Overview:
+As a Lead Azure CloudOps Engineer, you will lead cloud operations for Azure, defining strategies for scalable, secure, and resilient infrastructure. You will manage a team of engineers and drive projects to ensure Azure resources align with business needs.
+
+Key Responsibilities:
+
+Lead Azure operations and infrastructure strategy, focusing on security, resilience, and cost efficiency.
+Oversee monitoring, disaster recovery, and incident response processes.
+Implement automation and infrastructure as code for efficient resource management.
+Drive compliance with Azure security standards, managing IAM and network security configurations.
+Mentor CloudOps team members, enforcing best practices and fostering a collaborative environment.
+Collaborate with stakeholders across engineering and product teams to streamline Azure usage.
+Key Skills:
+
+Expert knowledge of Azure architecture, services, and CloudOps best practices.
+Advanced automation and infrastructure management skills with ARM Templates or Terraform.
+Strong understanding of security, compliance, and cost management in Azure.
+Proven leadership, mentoring, and cross-functional collaboration skills.
+Ability to communicate complex concepts to stakeholders and technical teams.

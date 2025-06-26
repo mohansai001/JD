@@ -1,0 +1,50 @@
+AWS Data Engineer
+Job Title: AWS Data Engineer
+Primary skills: AWS Stack – Glue, Lambda, Athena, S3; Python
+Secondary skills: SQL, PySpark
+Mode of work: Work from Office
+Experience: 4-7 years of experience
+About the job
+We are seeking a skilled AWS Data Engineer with experience in developing modern data solutions on cloud-native platforms, especially using AWS. The role involves building scalable and reliable data pipelines, designing custom AWS solutions, and collaborating with stakeholders to ensure effective data governance. You will work closely with data scientists and analysts to ensure data availability for analytics and reporting while handling large volumes of data.
+
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+Responsibilities:
+•	Collaborate with stakeholders to develop modern data solutions on AWS cloud platform.
+•	Design and implement custom solutions to support data governance initiatives.
+•	Create and enhance workflows, data dictionaries, and scripts to optimize governance processes.
+•	Build and maintain scalable data pipelines using AWS services like S3, Glue, Lambda, and Athena.
+•	Develop ETL processes for data ingestion, transformation, and loading into data lakes and warehouses.
+•	Work closely with data scientists and analysts to ensure data availability for analytics.
+•	Handle large volumes of data efficiently.
+•	Understand and translate business requirements into technical solutions.
+•	Develop mapping documents and transformation business rules.
+Requirements - Must have:
+•	Overall 4-7 years of experience with at least 3+ years as a data engineer with AWS as the cloud platform.
+•	Experience with AWS services: S3, Athena, Glue, Lambda, and Python.
+•	Proficiency in SQL, Python, and PySpark.
+•	Strong knowledge of Data Warehousing concepts.
+•	Familiarity with Agile/Scrum methodologies.
+•	Excellent verbal and written communication skills.
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****

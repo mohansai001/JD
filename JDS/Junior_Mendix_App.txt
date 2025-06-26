@@ -1,0 +1,19 @@
+Job Title: Junior Mendix Developer
+Role Overview:
+As a Junior Mendix Developer, you will assist in developing, testing, and maintaining low-code applications using the Mendix platform. You will collaborate with business analysts and senior developers to build scalable applications while learning best practices in low-code development.
+
+Key Responsibilities:
+Develop, test, and deploy low-code applications using Mendix.
+Assist in designing user interfaces, workflows, and data models.
+Integrate REST/SOAP APIs and third-party services into Mendix applications.
+Troubleshoot and debug application issues to ensure optimal performance.
+Follow best practices for application development and security.
+Work with senior developers and business teams to refine application requirements.
+Document functional and technical specifications.
+Key Skills:
+Basic knowledge of Mendix platform and low-code development.
+Familiarity with Java, JavaScript, or SQL is a plus.
+Understanding of RESTful APIs and data integration.
+Basic UI/UX design knowledge for creating responsive applications.
+Strong problem-solving and analytical skills.
+Willingness to learn and adapt to low-code development best practices.

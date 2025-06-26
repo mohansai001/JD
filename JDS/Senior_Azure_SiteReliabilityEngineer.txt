@@ -1,0 +1,18 @@
+Senior Azure Site Reliability Engineer
+Role Overview:
+As a Senior Azure Site Reliability Engineer, you’ll be responsible for designing and implementing reliability solutions to optimize the performance and availability of Azure systems. You’ll drive automation and incident management practices.
+
+Key Responsibilities:
+
+Design and implement comprehensive monitoring and alerting solutions with Azure Monitor, Log Analytics, and Application Insights.
+Automate repetitive operational tasks and incident response using Terraform or ARM Templates.
+Perform capacity planning, optimize resource usage, and enhance infrastructure performance.
+Lead incident management and post-mortem analysis, implementing preventive solutions.
+Collaborate with DevOps and development teams to enforce Azure best practices for reliability.
+Key Skills:
+
+In-depth knowledge of Azure services and architecture.
+Proficiency with Infrastructure as Code (Terraform, ARM Templates) and CI/CD automation.
+Advanced scripting skills (PowerShell, Python, Bash) for operational tasks.
+Experience with monitoring and alerting tools like Azure Monitor, Log Analytics, Grafana.
+Strong background in incident response and proactive reliability engineering.

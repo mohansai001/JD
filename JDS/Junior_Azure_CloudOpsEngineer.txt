@@ -1,0 +1,17 @@
+Junior Azure CloudOps Engineer
+Role Overview:
+As a Junior Azure CloudOps Engineer, you will support Azure infrastructure operations, assisting in monitoring, troubleshooting, and routine maintenance tasks. You’ll learn to manage resources, monitor performance, and support automation efforts.
+
+Key Responsibilities:
+
+Monitor Azure resources like VMs, Storage Accounts, and Networking services.
+Help maintain and troubleshoot Azure services, responding to incidents and escalations.
+Assist in setting up alerts, logging, and monitoring with Azure Monitor.
+Contribute to automation scripts for routine tasks in PowerShell or Bash.
+Document configurations, incidents, and resolutions following standard practices.
+Key Skills:
+
+Basic knowledge of Azure services (VMs, Storage, Networking).
+Familiarity with monitoring and alerting tools like Azure Monitor.
+Basic scripting skills (PowerShell, Bash) and willingness to learn Azure operations best practices.
+Strong problem-solving and communication skills.

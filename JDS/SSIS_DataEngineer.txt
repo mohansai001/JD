@@ -1,0 +1,55 @@
+Job Description: SSIS Developer
+
+
+Job Title: SSIS Developer
+Primary skills: SQL Server, SSIS
+Secondary skills: Database designing, implementation, creation & tuning of Data Aggregation mechanisms.
+Location: Hyderabad, Pune
+Mode of work: Hybrid
+Experience: 8-10 years
+
+About the job
+We are seeking a skilled and experienced SSIS developer with a strong background in hands-on coding and data integration solutions. The ideal candidate will have extensive experience in SQL Server Integration Services (SSIS) and SQL server, a deep understanding of data warehousing concepts, and the ability to lead a team of developers to deliver high-quality data solutions. You will be responsible for designing, developing, and maintaining ETL processes, and you will collaborate with various stakeholders to ensure that our data solutions meet business requirements.
+
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+
+Responsibilities
+•	Understanding business requirements/scope of projects, create functional Data specifications as per business logic/process.
+•	Be able to translate functional specifications into ETL SSIS packages of the Data Warehouse’s development.
+•	Create/own project documents creation as per SDLC like project plan etc. and create best practices for SSIS development; Identify risks/mitigation plan.
+•	Work with the offshore Team in designing & building Data warehouse as part of ODS project.  
+•	Collaborate with client and internal stakeholders.
+•	Coordinate, manage, mentor and ensure deliverables from offshore team.
+•	Daily, weekly status reporting to client and internal stakeholders.
+Requirements
+•	Must have strong hands-on knowledge on developing SSIS packages and usage of all the transformations in SSIS.
+•	Experience in Creating jobs, scheduling the jobs, deployment of packages, performance tuning; debugging/error handling skills.
+•	Strong in SQL Server complex queries.
+•	Hands on experience of SSIS development/deployment with cloud system.
+•	Experience in designing and development of ETL work packages on at least 3 data warehouse projects and be able to demonstrate expertise in any ETL and reporting tools.
+•	Experience of using multi-dimensional models such as Star Schemas and Snowflake Schema.
+•	Methodical and structured approach to design and development specific to Data programs.
+•	A good understanding of the concepts and best practices of data warehouse ETL design and be able to apply these suitable. 
+•	Excellent verbal/written communication, good organizational skills, and team player.
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****

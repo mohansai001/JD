@@ -1,0 +1,52 @@
+Sr ETL Developer – Datastage
+
+Job Title: Sr ETL Developer – Datastage
+Primary skills:   ETL, IBM DataStage, Data Warehouse.
+Secondary skills: AWS S3, Unix Scripting, Oracle SQL.Mode of work: Work from Office
+Experience: 4 to 6 Years.
+
+About the job:
+We are looking for a skilled ETL Datastage Developer to design, develop, and maintain scalable ETL processes. The role involves working closely with business teams to extract, transform, and load data from various sources into target databases. The developer will be responsible for ensuring the efficiency and scalability of ETL pipelines and adhering to business logic.
+Know your team:
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through a strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+
+Responsibilities:
+•	Design and develop DataStage jobs to extract, transform, and load data into data warehouses.
+•	Collaborate with business teams and data modelers to understand ETL requirements.
+•	Develop mapping documents and transformation rules based on source-to-target mapping.
+•	Handle large data volumes efficiently using IBM Infosphere DataStage Designer, Director, and Administrator.
+•	Read files from AWS S3 buckets and load them into target databases.
+•	Perform unit testing and performance testing of DataStage jobs.
+•	Create and maintain ETL testing documentation, including test cases, results, and issues.
+•	Work closely with cross-functional teams to ensure seamless data integration.
+
+Requirements:
+Must Have:
+
+•	4-6 years of experience in IBM DataStage Tool and ETL engineering.
+•	Experience with SQL for Data Warehouse and Data Hub testing.
+•	Familiarity with AWS S3, Unix Scripting, and Oracle SQL.
+•	Experience with DataStage on cloud platforms like IBM Cloudpak for data.
+•	Strong communication and problem-solving skills.
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****
+

@@ -1,0 +1,23 @@
+Job Title: Senior Mendix Developer
+Role Overview:
+As a Senior Mendix Developer, you will be responsible for designing, developing, and optimizing enterprise-level low-code applications using the Mendix platform. You will lead development efforts, mentor junior developers, and collaborate with business teams to deliver scalable and efficient applications.
+
+Key Responsibilities:
+Architect, develop, and maintain scalable Mendix applications for business solutions.
+Design and implement data models, microflows, and page logic in Mendix.
+Integrate Mendix applications with REST/SOAP APIs, databases, and third-party services.
+Optimize performance, security, and usability of Mendix applications.
+Lead code reviews, enforce best practices, and mentor junior developers.
+Work with business analysts to translate requirements into technical solutions.
+Troubleshoot and resolve complex application issues.
+Stay updated with Mendix platform updates and low-code best practices.
+Collaborate with cross-functional teams to ensure seamless project delivery.
+Key Skills:
+Expertise in Mendix platform and low-code development methodologies.
+Strong knowledge of Mendix domain models, microflows, and security settings.
+Experience in RESTful API and database integration.
+Understanding of CI/CD pipelines and cloud deployment for Mendix applications.
+Familiarity with Java, JavaScript, or SQL for advanced customizations.
+Experience with unit testing, debugging, and performance tuning in Mendix.
+Strong problem-solving, debugging, and leadership skills.
+Ability to collaborate with stakeholders, business teams, and developers.

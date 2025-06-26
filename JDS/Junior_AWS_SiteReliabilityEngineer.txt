@@ -1,0 +1,18 @@
+Junior AWS Site Reliability Engineer
+Role Overview:
+As a Junior AWS Site Reliability Engineer, you will assist with maintaining the availability and performance of AWS-based applications. You’ll focus on monitoring, incident response, and learning to automate common operational tasks.
+
+Key Responsibilities:
+
+Monitor AWS infrastructure and application performance using tools like CloudWatch and Grafana.
+Assist with incident response, including troubleshooting and root-cause analysis.
+Write and maintain basic automation scripts in Python, Bash, or PowerShell.
+Support CI/CD processes and deployment automation for quick issue resolution.
+Document incident responses, resolutions, and best practices.
+Key Skills:
+
+Basic understanding of AWS services (EC2, RDS, S3, CloudWatch).
+Familiarity with monitoring tools and incident management.
+Basic scripting knowledge (Python, Bash) for task automation.
+Eagerness to learn reliability engineering concepts and AWS best practices.
+Strong problem-solving and communication skills.

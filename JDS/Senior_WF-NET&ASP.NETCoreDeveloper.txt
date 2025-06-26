@@ -1,0 +1,20 @@
+Senior WF-NET & ASP.NET Core Developer
+Role Overview: As a Senior WF-NET & ASP.NET Core Developer, you will design and implement solutions using ASP.NET Core and integrate them into large-scale enterprise applications. You will be responsible for leading projects, ensuring high-quality code, and mentoring junior developers.
+
+Key Responsibilities:
+
+Design and implement scalable, high-performance ASP.NET Core applications.
+Develop and maintain RESTful APIs for seamless integration with front-end and other services.
+Manage database design and optimize SQL queries for better performance.
+Lead code reviews, ensuring coding standards and best practices are followed.
+Work closely with DevOps and infrastructure teams to ensure smooth deployment pipelines.
+Mentor and guide junior developers, providing technical leadership.
+Stay up-to-date with the latest trends and technologies in web development.
+Key Skills:
+
+Strong experience in C# and ASP.NET Core.
+Proficient in database design, SQL Server, and performance tuning.
+Experience in building RESTful APIs and web services.
+Proficient in front-end technologies (HTML, CSS, JavaScript, Angular, React).
+Familiarity with unit testing and test-driven development (TDD).
+Excellent problem-solving, debugging, and performance optimization skills.

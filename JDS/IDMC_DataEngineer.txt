@@ -1,0 +1,65 @@
+Data Engineer – ETL IDMC
+
+Job Title: Data Engineer – ETL IDMC (SE/SSE)
+Primary skills:   IDMC/IICS, SQL
+Secondary skills: Snowflake
+Mode of work: Work from Office
+Experience: 4 to 6 Years.
+About the job
+We are looking for a IDMC developer to join our Data leverage team – a team of high-energy individuals who thrive in a rapid-pace and agile product development environment. As a Developer, you will provide accountability in the ETL and Data Integration space, from the development phase through delivery. You will work closely with the Project Manager, Technical Lead, and client teams. Your prime responsibilities will be to develop bug free code with proper unit testing and documentation. You will provide inputs to planning, estimation, scheduling, and coordination of technical activities related to ETL-based applications. 
+
+You will be responsible for meeting development schedules and delivering high-quality ETL-based solutions that meet technical specifications and design requirements ensuring customer satisfaction. You are expected to possess good knowledge in one or more of these ETL tools – IDMC, Informatica, and Matillion.
+
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+Responsibilities
+•	Experience in Informatica Cloud Data Integration -- processes by constructing mappings, tasks, task flows, schedules, and parameter files.
+•	Good understanding of ETL and ELT best practices and experience with ETL and ETL Mapping documentation.
+•	Good understanding of CDI and CAI modules of IDMC.
+•	Design and implement data integration workflows between various data sources such as HDFS, S3, and relational databases.
+•	Troubleshoot and resolve issues related to data pipelines, ensuring reliability and stability.
+•	Collaborate with cross-functional teams to understand business requirements and deliver solutions.
+•	Ensure the quality and cleanliness of data using data validation and transformation techniques.
+•	Write and maintain efficient, scalable code in Python and PySpark to process big data.
+•	Work with cloud platforms like AWS or Azure to manage data storage, computation, and scaling.
+
+Requirements
+Must Have:
+
+•	Bachelor’s degree in computer science, Engineering, or a related field.
+•	2 to 4 years of experience with PySpark for data processing and manipulation on large-scale datasets.
+•	Solid understanding of Spark architecture, including RDDs, DataFrames, and Datasets.
+•	Strong programming experience in Python, including libraries such as pandas, numpy, and matplotlib.
+•	Experience with Hadoop, Hive, and NoSQL databases (e.g., Cassandra, MongoDB).
+•	Working knowledge of cloud computing services (e.g., AWS, Azure, or Google Cloud).
+•	Familiarity with batch and stream processing (using Kafka, Flink, Spark Streaming).
+•	Strong problem-solving skills and attention to detail.
+•	Excellent communication and teamwork skills.
+
+Good to have skills:
+
+•	Experience with Apache Airflow or other orchestration tools for managing workflows.
+•	Familiarity with Docker or Kubernetes for containerized data environments.
+•	Experience in implementing and managing Continuous Integration (CI) and Continuous Delivery (CD) pipelines, with a focus on automating, testing, and deploying code in a fast-paced development environment.
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****

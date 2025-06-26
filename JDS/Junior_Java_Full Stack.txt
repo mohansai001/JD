@@ -1,0 +1,34 @@
+Junior Full Stack Engineer (0–2 years)
+Location: [Your Location or Remote]
+Experience: 0–2 years
+Type: Full-Time
+
+Responsibilities
+Assist in developing and maintaining web applications using modern frontend and backend frameworks.
+
+Collaborate with UI/UX designers and backend developers to implement features.
+
+Write clean, testable, and scalable code under supervision.
+
+Fix bugs and issues reported by QA or users.
+
+Participate in code reviews and team meetings.
+
+Required Skills
+Basic knowledge of HTML, CSS, JavaScript.
+
+Experience with at least one frontend framework (React, Angular, or Vue).
+
+Understanding of backend development with Node.js, Express, or Python/Django.
+
+Familiarity with databases like MySQL, PostgreSQL, or MongoDB.
+
+Basic understanding of Git and version control.
+
+Qualifications
+Bachelor’s degree in Computer Science or related field.
+
+Internship or project experience in full stack development is a plus.
+
+Willingness to learn and adapt quickly.
+

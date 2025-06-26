@@ -1,0 +1,19 @@
+Junior Snowflake Developer
+Role Overview: As a Junior Snowflake Developer, you will assist in the development, implementation, and maintenance of data solutions using Snowflake. You will work on creating data pipelines, writing queries, and ensuring efficient data loading and transformation processes.
+
+Key Responsibilities:
+
+Assist in the development of data pipelines and data loading processes using Snowflake.
+Write SQL queries for data extraction, transformation, and loading (ETL).
+Assist with the optimization of queries and Snowflake performance.
+Collaborate with data engineers and analysts to meet data requirements.
+Troubleshoot and resolve data-related issues.
+Learn about data modeling, data warehousing, and Snowflake best practices.
+Key Skills:
+
+Basic knowledge of SQL and experience with relational databases.
+Familiarity with Snowflake cloud data platform.
+Understanding of ETL processes and data pipelines.
+Strong analytical skills and attention to detail.
+Ability to learn quickly and work with team members.
+Basic knowledge of scripting languages (Python, Bash) is a plus.

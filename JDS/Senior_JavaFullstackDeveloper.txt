@@ -1,0 +1,21 @@
+Senior Java Fullstack Developer
+Role Overview: As a Senior Java Fullstack Developer, you will lead the development of both front-end and back-end components of web applications. You will be responsible for designing and implementing scalable, high-performance systems and mentoring junior developers.
+
+Key Responsibilities:
+
+Design and implement both back-end and front-end components using Java and modern front-end technologies.
+Develop and maintain RESTful APIs and integrate with other services.
+Optimize front-end performance and ensure responsive, mobile-friendly designs.
+Lead the development of scalable, secure, and maintainable Java-based web applications.
+Perform code reviews, mentor junior developers, and establish coding standards.
+Collaborate with cross-functional teams to ensure requirements are met and applications are delivered on time.
+Troubleshoot and resolve complex issues across the stack.
+Key Skills:
+
+Proficiency in Java, Spring Boot, Hibernate, and other Java-based technologies.
+Expertise in front-end frameworks (Angular, React, or Vue.js).
+Strong experience with RESTful APIs, microservices, and cloud technologies.
+Familiarity with databases (SQL/NoSQL) and data modeling.
+Experience in test-driven development (TDD) and automated testing frameworks.
+Strong problem-solving and debugging skills.
+Leadership skills, including mentoring junior developers.

@@ -1,0 +1,19 @@
+Lead AWS Platform Engineer
+Role Overview:
+As a Lead AWS Platform Engineer, you will define and manage the platform strategy, driving AWS architecture decisions and leading automation efforts. You’ll manage platform reliability, security, and scalability, working closely with engineering teams to streamline development processes.
+
+Key Responsibilities:
+
+Architect scalable and resilient AWS platforms, defining infrastructure standards and best practices.
+Lead and enhance CI/CD processes and platform automation, ensuring high availability and quick recovery.
+Oversee infrastructure as code practices and ensure compliance with security standards.
+Set up robust monitoring, disaster recovery, and incident response procedures.
+Mentor and guide a team of engineers, fostering a culture of learning and excellence.
+Collaborate with cross-functional teams to align platform services with business and technical goals.
+Key Skills:
+
+Expert knowledge of AWS platform architecture and services.
+Advanced skills in CI/CD processes, automation, and infrastructure as code.
+Proficiency in container orchestration (ECS, EKS) and serverless architecture.
+Strong leadership and mentoring skills, with project management experience.
+Experience with cost optimization, security, and compliance for AWS environments.

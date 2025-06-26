@@ -1,0 +1,19 @@
+Senior Azure Platform Engineer
+Role Overview:
+As a Senior Azure Platform Engineer, you’ll be responsible for designing, implementing, and managing robust and scalable Azure platforms. You’ll automate infrastructure provisioning, optimize deployment processes, and ensure platform stability.
+
+Key Responsibilities:
+
+Design and manage scalable Azure platforms using services like VMs, AKS, App Services, and Storage Accounts.
+Implement infrastructure as code using ARM Templates or Terraform to automate Azure resource provisioning.
+Build and optimize CI/CD pipelines using Azure DevOps for seamless deployments.
+Ensure platform stability with monitoring, alerting, and logging (Azure Monitor, Application Insights).
+Perform root-cause analysis for complex platform issues and implement proactive solutions.
+Mentor junior engineers and work closely with development teams to optimize platform services.
+Key Skills:
+
+Advanced knowledge of Azure platform services and architecture.
+Proficiency with CI/CD tools, infrastructure as code, and automation (Azure DevOps, Terraform).
+Strong scripting and automation skills (PowerShell, Bash, Python).
+In-depth knowledge of monitoring tools like Azure Monitor and Application Insights.
+Experience with containerization and orchestration (AKS, Docker)

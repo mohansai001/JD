@@ -1,0 +1,18 @@
+Junior ReactJS Developer
+Role Overview: As a Junior ReactJS Developer, you will work alongside a team of developers to build and maintain user interfaces for web applications using ReactJS. Your responsibilities include writing clean, reusable code, and assisting in the development of web apps with a focus on front-end performance and functionality.
+
+Key Responsibilities:
+
+Assist in the development of dynamic user interfaces using ReactJS.
+Work with backend developers to integrate APIs and ensure smooth data flow.
+Write clean, maintainable code and participate in code reviews.
+Contribute to the design and implementation of responsive, mobile-friendly layouts.
+Debug and troubleshoot UI issues.
+Collaborate with the design team to ensure high-quality UX/UI.
+Key Skills:
+
+Proficiency in JavaScript, HTML, and CSS.
+Basic understanding of ReactJS and its component lifecycle.
+Familiarity with Git and version control systems.
+Knowledge of responsive design principles.
+Ability to work in a team environment and learn new technologies.

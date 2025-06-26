@@ -1,0 +1,19 @@
+Lead Hadoop Data Engineer
+Role Overview: As a Lead Hadoop Data Engineer, you will lead data engineering initiatives and oversee the design and development of large-scale data pipelines. You will provide technical leadership, ensuring high-quality, scalable data solutions for enterprise-level systems.
+
+Key Responsibilities:
+
+Lead the design, architecture, and implementation of data pipelines using Hadoop.
+Oversee data ingestion, processing, and storage in large-scale distributed environments.
+Ensure data quality, consistency, and reliability across the organization.
+Collaborate with business stakeholders to define data requirements and design solutions.
+Provide mentorship and guidance to junior and senior engineers.
+Optimize Hadoop cluster performance and troubleshoot issues.
+Manage the integration of Hadoop with other data systems, including relational and NoSQL databases.
+Key Skills:
+
+Extensive experience with Hadoop, Spark, Hive, and related technologies.
+Expertise in big data architectures, data lakes, and cloud platforms.
+Strong knowledge of distributed systems, performance optimization, and data governance.
+Proficiency in programming languages (Java, Python, Scala).
+Strong leadership, communication, and project management skills.

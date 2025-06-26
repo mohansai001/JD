@@ -1,0 +1,19 @@
+Job Title: Junior Java Developer
+Role Overview:
+As a Junior Java Developer, you will assist in the development, testing, and maintenance of Java-based applications. You will work closely with senior developers to build efficient, scalable, and high-performing applications while enhancing your coding and problem-solving skills.
+
+Key Responsibilities:
+Develop, test, and maintain Java applications using Core Java, Spring Boot, and Hibernate.
+Assist in building RESTful APIs and backend services.
+Work with SQL/NoSQL databases for data storage and retrieval.
+Debug and troubleshoot application issues to ensure optimal performance.
+Collaborate with cross-functional teams to implement new features and enhance existing functionality.
+Follow best coding practices and participate in code reviews.
+Assist in deploying applications and monitoring system performance.
+Key Skills:
+Basic experience with Core Java, OOPs concepts, and exception handling.
+Familiarity with Spring Boot, Hibernate, and RESTful APIs.
+Understanding of SQL databases like MySQL, PostgreSQL, or NoSQL databases like MongoDB.
+Knowledge of version control systems like Git.
+Strong problem-solving and communication skills.
+Willingness to learn and adapt to new Java technologies and frameworks.

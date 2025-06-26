@@ -1,0 +1,17 @@
+Junior AWS CloudOps Engineer
+Role Overview:
+As a Junior AWS CloudOps Engineer, you will support cloud operations by managing and monitoring AWS infrastructure. Your responsibilities include troubleshooting, automation, and assisting with the maintenance of AWS cloud environments to ensure smooth operations.
+
+Key Responsibilities:
+
+Assist with daily monitoring and troubleshooting of AWS services (EC2, S3, RDS, etc.).
+Perform routine maintenance tasks, including patch management and backup.
+Help in setting up alerts and monitoring dashboards for AWS resources.
+Contribute to automation scripts for operational tasks in Python, Bash, or PowerShell.
+Document processes, incidents, and resolutions, following best practices.
+Key Skills:
+
+Basic understanding of AWS services (EC2, S3, CloudWatch, etc.).
+Familiarity with monitoring tools and basic scripting skills (Python, Bash, PowerShell).
+Interest in learning AWS best practices for security, performance, and operations.
+Strong troubleshooting and communication skills.

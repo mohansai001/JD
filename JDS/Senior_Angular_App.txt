@@ -1,0 +1,25 @@
+Job Title: Senior Angular Developer
+Role Overview:
+As a Senior Angular Developer, you will be responsible for designing, developing, and optimizing scalable front-end applications using Angular. You will lead front-end development efforts, mentor junior developers, and collaborate with cross-functional teams to create high-performance and user-friendly applications.
+
+Key Responsibilities:
+Architect, develop, and maintain enterprise-level Angular applications using Angular (Angular 8+) and TypeScript.
+Optimize UI/UX performance, responsiveness, and accessibility.
+Design and implement reusable components, modules, and services following best practices.
+Work closely with backend developers to integrate RESTful APIs and GraphQL services.
+Implement state management solutions (RxJS, NgRx) for efficient data handling.
+Conduct code reviews, mentor junior developers, and enforce coding standards.
+Troubleshoot complex UI/functional issues and enhance application performance.
+Stay updated with Angular best practices, new features, and front-end trends.
+Collaborate with UI/UX designers to improve usability and user experience.
+Work with DevOps teams to ensure smooth CI/CD deployment of front-end applications.
+Key Skills:
+Expertise in Angular (Angular 8+), TypeScript, JavaScript, HTML, and CSS.
+Strong knowledge of RxJS, NgRx, and state management techniques.
+Experience in RESTful API and GraphQL integration.
+Proficiency in component-based architecture and Angular lifecycle hooks.
+Familiarity with front-end performance optimization techniques.
+Experience with unit testing frameworks (Jasmine, Karma).
+Hands-on experience with Git, CI/CD pipelines, and Agile methodologies.
+Strong problem-solving, debugging, and leadership skills.
+Ability to collaborate with cross-functional teams and mentor junior developers.

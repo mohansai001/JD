@@ -1,0 +1,55 @@
+SSE – Power BI
+
+Job Title: SSE – Power BI
+Primary skills: Advanced SQL, Power BI
+Secondary skills: Cognos, SSRS
+Mode of work: Work from Office
+Experience: 4 - 7 Years
+About the job
+We are seeking an experienced SSE – Power BI developer with expertise in building, maintaining, and enhancing interactive dashboards and business intelligence reports. The role requires strong skills in SQL and Power BI, and the ability to collect, analyze, and transform data from various sources to create high-performance business intelligence solutions.
+
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+
+Responsibilities:
+•	Build and maintain interactive dashboards, reports, and business intelligence services using Power BI.
+•	Collect, import, analyze, and transform data from various sources for business intelligence purposes.
+•	Interpret and translate complex business requirements into technical specifications and reports.
+•	Develop tabular and multidimensional models to meet business requirements and adhere to warehouse standards.
+•	Create, publish, and maintain Power BI reports, ensuring timely delivery based on business needs.
+•	Conduct unit tests and develop database queries to troubleshoot and resolve issues.
+•	Enhance and optimize existing reports and collaborate with teams to integrate new reporting features.
+
+Requirements 
+Must Have:
+
+•	Experience in developing and maintaining visual reports, KPIs, scorecards, and dashboards using Power BI and Cognos.
+•	Experience in prototyping, designing, and conducting requirement analysis for business intelligence solutions.
+•	Expertise in advanced-level calculations, displaying large datasets, and optimizing performance.
+•	Experience with MS SQL Server BI Stack, including SSRS, TSQL, Power Query, MDX, Power BI, and DAX.
+•	Experience in the insurance (e.g. Underwriting, Claims, Policy Issuance) or financial industry is preferred.
+•	High-level proficiency in Excel, including macros and pivot tables.
+•	Strong SQL skills and understanding of relational databases, data modeling, and normalization.
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****
+

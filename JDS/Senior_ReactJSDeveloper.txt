@@ -1,0 +1,20 @@
+Senior ReactJS Developer
+Role Overview: As a Senior ReactJS Developer, you will take ownership of complex front-end features, lead development efforts, and collaborate closely with cross-functional teams to build high-performance, scalable web applications using ReactJS.
+
+Key Responsibilities:
+
+Lead the development and implementation of front-end features and functionalities.
+Architect reusable, scalable, and maintainable React components.
+Ensure cross-browser and mobile compatibility for a seamless user experience.
+Mentor junior developers and assist in code reviews and best practices.
+Optimize web applications for maximum speed and scalability.
+Collaborate with backend developers to integrate RESTful APIs.
+Stay up to date with the latest trends in front-end technologies and ReactJS.
+Key Skills:
+
+Extensive experience with ReactJS, Redux, and modern JavaScript (ES6+).
+Strong understanding of front-end build tools and bundlers (Webpack, Babel).
+Experience with state management libraries (Redux, MobX).
+Familiarity with testing libraries like Jest or Mocha.
+Proficiency in responsive web design and cross-browser compatibility.
+Strong leadership skills and experience mentoring junior developers.

@@ -1,0 +1,48 @@
+SSE – Databricks Data Engineer
+
+Job Title: SSE – Databricks Data Engineer
+Primary skills: Advanced SQL, Azure Databricks, Azure Data Factory, Azure Datalake.
+Secondary skills: Azure SQL, PySpark, Azure Synapse.
+Mode of work: Work from Office
+Experience: 4 - 7 Years of Experience
+About the job
+We are looking for an experienced Databricks Data Engineer to design, develop, and manage data pipelines using Azure services such as Databricks, Data Factory, and Datalake. The role involves building scalable ETL solutions, collaborating with cross-functional teams, and processing large volumes of data. You will work closely with business and technical teams to deliver robust data models and transformations in support of analytics and reporting needs.
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+Responsibilities:
+•	Design and develop ETL pipelines using ADF for data ingestion and transformation.
+•	Collaborate with Azure stack modules like Data Lakes and SQL DW to handle large volumes of data.
+•	Write SQL, Python, and PySpark code to meet data processing and transformation needs.
+•	Understand business requirements and create data flow processes that meet them.
+•	Develop mapping documents and transformation business rules.
+•	Ensure continuous communication with the team and stakeholders regarding project status.
+Requirements - Must Have:
+•	4-7 years of experience in data ingestion, data processing, and analytical pipelines for big data and relational databases.
+•	Extensive hands-on experience with Azure services: Databricks, Data Factory, ADLS, Synapse, and Azure SQL.
+•	Experience in SQL, Python, and PySpark for data transformation and processing.
+•	Strong understanding of DevOps, CI/CD deployments, and Agile methodologies.
+•	Strong communication skills and attention to detail.
+•	Experience in the insurance or financial industry is preferred.
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****
+

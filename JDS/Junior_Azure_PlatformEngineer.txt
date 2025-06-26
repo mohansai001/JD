@@ -1,0 +1,17 @@
+Junior Azure Platform Engineer
+Role Overview:
+As a Junior Azure Platform Engineer, you’ll assist in developing and managing Azure-based platforms. You will help maintain infrastructure, automate deployment processes, and support the team in operational tasks.
+
+Key Responsibilities:
+
+Support the configuration and maintenance of Azure resources (VMs, Storage Accounts, SQL Databases).
+Assist in building CI/CD pipelines using Azure DevOps for consistent application deployments.
+Monitor and troubleshoot platform issues, responding to incidents and handling basic debugging.
+Write scripts in PowerShell or Bash to automate repetitive tasks.
+Document configurations, incidents, and solutions following best practices.
+Key Skills:
+
+Basic knowledge of Azure services and infrastructure (VMs, Storage, Networking).
+Familiarity with CI/CD tools, especially Azure DevOps.
+Basic scripting skills in PowerShell, Bash, or Python.
+Eagerness to learn Azure platform management and automation tools

@@ -1,0 +1,19 @@
+Senior AWS DevOps Engineer
+Role Overview:
+As a Senior AWS DevOps Engineer, you will be responsible for designing, implementing, and managing scalable and secure AWS environments. You’ll lead infrastructure automation efforts, optimize deployment processes, and ensure security and resilience.
+
+Key Responsibilities:
+
+Design, manage, and scale AWS infrastructure with services such as EC2, Lambda, RDS, and VPCs.
+Build advanced CI/CD pipelines using CodePipeline, Jenkins, and GitLab CI/CD.
+Implement infrastructure as code with CloudFormation or Terraform to automate resource provisioning.
+Enhance security and compliance for AWS resources, applying best practices for IAM and network security.
+Mentor junior engineers and conduct reviews of their work.
+Troubleshoot issues, conduct root-cause analysis, and implement permanent fixes.
+Key Skills:
+
+Strong knowledge of AWS services, architecture, and best practices.
+Advanced experience with CI/CD tools and automation (CodePipeline, Jenkins, GitLab CI/CD).
+Proficiency in Terraform or CloudFormation for infrastructure as code.
+Solid scripting abilities in Python, Bash, or PowerShell.
+Experience with container management (ECS, EKS).

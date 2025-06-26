@@ -1,0 +1,24 @@
+Job Title: Senior Java Developer
+Role Overview:
+As a Senior Java Developer, you will be responsible for designing, developing, and maintaining high-performance Java applications. You will lead development efforts, mentor junior developers, and collaborate with cross-functional teams to deliver scalable and efficient solutions.
+
+Key Responsibilities:
+Architect, develop, and maintain enterprise-level Java applications using Core Java, Spring Boot, and Hibernate.
+Design and implement RESTful APIs and microservices for scalable solutions.
+Optimize application performance, security, and scalability.
+Work with SQL/NoSQL databases for efficient data management.
+Implement best coding practices, design patterns, and SOLID principles.
+Collaborate with DevOps teams for CI/CD pipeline integration and deployment automation.
+Lead code reviews, mentor junior developers, and drive technical improvements.
+Troubleshoot complex system issues and provide scalable solutions.
+Stay updated with emerging Java technologies and contribute to architectural decisions.
+Key Skills:
+Strong expertise in Core Java, OOP, Multithreading, Spring Boot, Hibernate, and REST APIs.
+Experience with microservices architecture and cloud platforms (AWS, Azure, or GCP).
+Advanced knowledge of SQL/NoSQL databases (MySQL, PostgreSQL, MongoDB, etc.).
+Proficiency in message brokers (Kafka, RabbitMQ) and distributed systems.
+Hands-on experience with Docker, Kubernetes, and CI/CD pipelines.
+Strong understanding of design patterns, SOLID principles, and best coding practices.
+Experience with unit testing frameworks like JUnit, TestNG.
+Excellent problem-solving, debugging, and leadership skills.
+Ability to work in Agile/Scrum development environments.

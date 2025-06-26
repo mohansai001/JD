@@ -1,0 +1,19 @@
+Lead Azure Platform Engineer
+Role Overview:
+As a Lead Azure Platform Engineer, you will define and oversee the Azure platform strategy, lead automation efforts, and ensure the reliability and security of cloud infrastructure. You’ll also manage a team of platform engineers and collaborate with other teams.
+
+Key Responsibilities:
+
+Architect, design, and implement highly available, scalable, and secure Azure platforms.
+Lead automation initiatives and enhance CI/CD processes to support efficient software delivery.
+Establish and enforce security, compliance, and governance standards for Azure infrastructure.
+Oversee monitoring, disaster recovery, and incident response strategies.
+Mentor and manage a team of platform engineers, promoting best practices in Azure operations.
+Work with cross-functional teams to ensure that platform services align with organizational goals.
+Key Skills:
+
+Expert-level knowledge of Azure platform architecture, services, and operations best practices.
+Proficiency in CI/CD pipelines, infrastructure as code, and automation with Azure DevOps and Terraform.
+Strong experience with security, compliance, and cost management in Azure.
+Excellent leadership, mentoring, and communication skills.
+Ability to strategize and align Azure infrastructure with business needs.

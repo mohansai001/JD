@@ -1,0 +1,18 @@
+Senior AWS Site Reliability Engineer
+Role Overview:
+As a Senior AWS Site Reliability Engineer, you’ll be responsible for optimizing the reliability and performance of AWS systems. You’ll focus on automation, monitoring, and proactive incident response to maintain high availability.
+
+Key Responsibilities:
+
+Design and implement monitoring, alerting, and logging solutions with AWS CloudWatch, ELK Stack, and Prometheus.
+Automate routine tasks, deployment, and incident response using Infrastructure as Code (IaC) with Terraform or CloudFormation.
+Perform capacity planning, performance tuning, and infrastructure optimization.
+Lead incident management and post-mortem reviews to prevent recurring issues.
+Collaborate with DevOps and development teams to enforce reliability best practices.
+Key Skills:
+
+Strong knowledge of AWS services and architecture (EC2, RDS, Lambda, S3, CloudWatch).
+Proficiency in Infrastructure as Code (Terraform, CloudFormation) and CI/CD automation.
+Advanced scripting skills (Python, Bash) for operational automation.
+Experience with monitoring and alerting tools like CloudWatch, ELK, Grafana.
+Knowledge of incident management, root-cause analysis, and proactive reliability measures.

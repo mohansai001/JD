@@ -1,0 +1,20 @@
+Lead Java Fullstack Developer
+Role Overview: As a Lead Java Fullstack Developer, you will be responsible for the technical leadership of full-stack development initiatives, including architecture, design, and development of scalable, enterprise-level web applications. You will guide a team of developers and ensure the highest quality standards are met.
+
+Key Responsibilities:
+
+Lead the design and architecture of full-stack applications, including front-end and back-end components.
+Provide technical direction, mentoring, and leadership to junior and senior developers.
+Ensure the development of high-quality, performant, and scalable applications.
+Collaborate with business stakeholders to define project requirements and technical solutions.
+Establish and enforce coding best practices and code reviews.
+Optimize the full application stack for performance and scalability.
+Oversee the deployment of applications and manage CI/CD pipelines.
+Key Skills:
+
+Deep expertise in Java, Spring Boot, Hibernate, and modern JavaScript frameworks (Angular, React).
+Strong experience in software architecture, design patterns, and microservices.
+Familiarity with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).
+Experience with continuous integration, continuous deployment, and automated testing.
+Excellent leadership, communication, and collaboration skills.
+Strong understanding of security, scalability, and performance optimization.

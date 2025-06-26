@@ -1,0 +1,31 @@
+Lead Full Stack Engineer (8+ years)
+Location: [Your Location or Remote]
+Experience: 8+ years
+Type: Full-Time
+
+Responsibilities
+Lead a team of engineers in building high-quality full stack applications.
+
+Define technical direction and ensure adherence to best practices and architecture.
+
+Review code, set standards, and enforce engineering excellence.
+
+Work with stakeholders to define technical requirements and roadmap.
+
+Guide the team through technical challenges and mentor all levels of engineers.
+
+Required Skills
+Expert-level proficiency in frontend (React, Vue, or Angular) and backend (Node.js, Django, .NET, etc.).
+
+Strong experience with cloud infrastructure (AWS, Azure, GCP), CI/CD, containerization (Docker, Kubernetes).
+
+Solid understanding of system design, architecture patterns, and scalability.
+
+Proven leadership, project management, and mentoring experience.
+
+Qualifications
+Bachelor’s/Master’s degree in Computer Science or equivalent.
+
+8+ years of experience in full stack development with at least 2 years in a leadership role.
+
+Track record of successful project delivery and team leadership.

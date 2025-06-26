@@ -1,0 +1,19 @@
+Lead ReactJS Developer
+Role Overview: As a Lead ReactJS Developer, you will be responsible for driving the vision and execution of front-end development in your team. You will oversee the architecture, lead design decisions, and ensure that the development processes are followed to create high-quality, performant web applications.
+
+Key Responsibilities:
+
+Lead and guide the ReactJS development team in building complex applications.
+Define and implement best practices, coding standards, and development workflows.
+Collaborate with stakeholders to define technical requirements and project scope.
+Conduct performance optimization, code reviews, and provide mentorship to junior and senior developers.
+Drive the adoption of new technologies and frameworks.
+Manage project timelines and coordinate resources across teams to meet deadlines.
+Ensure continuous improvement through innovation and technical leadership.
+Key Skills:
+
+Proven leadership experience in ReactJS and front-end web development.
+Strong understanding of front-end architecture, scalability, and performance optimization.
+Expertise in building highly scalable, maintainable, and high-performance web applications.
+Strong communication and collaboration skills, with experience working in an Agile environment.
+Expertise in various front-end technologies and libraries (React, Redux, Webpack, etc.).

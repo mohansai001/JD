@@ -1,0 +1,18 @@
+Senior Hadoop Data Engineer
+Role Overview: As a Senior Hadoop Data Engineer, you will design and build efficient, scalable data pipelines using the Hadoop ecosystem. You will work on large datasets, ensure data quality, and collaborate with data scientists and other stakeholders to deliver actionable insights.
+
+Key Responsibilities:
+
+Design, implement, and optimize large-scale data pipelines using Hadoop and related technologies.
+Work with teams to collect, process, and store data efficiently.
+Troubleshoot and optimize performance issues within Hadoop clusters.
+Implement data transformation logic using Hive, Spark, and Pig.
+Collaborate with business teams to define data requirements and create reporting solutions.
+Mentor junior data engineers and contribute to team best practices.
+Key Skills:
+
+Extensive experience with Hadoop ecosystem tools (HDFS, Hive, Pig, Spark).
+Strong knowledge of data warehousing and ETL processes.
+Proficiency in SQL and programming languages (Java, Python).
+Experience with cloud-based data processing platforms (AWS, Azure, GCP).
+Strong analytical and problem-solving skills.

@@ -1,0 +1,19 @@
+Junior WF-NET & ASP.NET Core Developer
+Role Overview: As a Junior WF-NET & ASP.NET Core Developer, you will work on the development of web applications using ASP.NET Core, focusing on both front-end and back-end functionalities. Your tasks will include assisting in the development of RESTful APIs, maintaining web applications, and ensuring efficient and scalable code.
+
+Key Responsibilities:
+
+Assist in the design, development, and maintenance of web applications using ASP.NET Core.
+Work with SQL databases and perform data operations.
+Collaborate with team members to develop RESTful APIs.
+Troubleshoot and fix bugs, ensuring high application performance.
+Participate in code reviews and contribute to best practices in coding.
+Support testing and debugging efforts to ensure application reliability.
+Key Skills:
+
+Basic knowledge of C# and ASP.NET Core.
+Familiarity with MVC and Web API architectures.
+Basic understanding of SQL and relational databases (SQL Server).
+Familiarity with front-end technologies like HTML, CSS, and JavaScript.
+Understanding of version control systems (Git).
+Eagerness to learn and develop programming skills.

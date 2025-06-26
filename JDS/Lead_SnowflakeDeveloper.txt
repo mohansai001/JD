@@ -1,0 +1,20 @@
+Lead Snowflake Developer
+Role Overview: As a Lead Snowflake Developer, you will lead data engineering initiatives, designing and implementing advanced data architectures using Snowflake. You will provide technical leadership, ensuring that data solutions are scalable, efficient, and aligned with business goals.
+
+Key Responsibilities:
+
+Lead the design and architecture of data solutions using Snowflake, ensuring scalability and performance.
+Collaborate with business stakeholders to define data requirements and translate them into technical solutions.
+Optimize Snowflake for large-scale data processing and reporting.
+Lead the implementation of data models, ETL processes, and data pipelines.
+Provide mentorship and guidance to junior and senior developers.
+Oversee the integration of Snowflake with other data systems and platforms.
+Ensure the highest standards of data quality, security, and governance.
+Key Skills:
+
+Expert-level experience with Snowflake and cloud data platforms.
+Deep understanding of data modeling, ETL processes, and performance optimization.
+Strong experience with cloud technologies (AWS, Azure, GCP) and data integration.
+Proficiency in SQL and scripting languages (Python, Bash).
+Proven leadership skills and experience mentoring data engineering teams.
+Excellent problem-solving, analytical, and communication skills.

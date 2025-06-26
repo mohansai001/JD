@@ -1,0 +1,19 @@
+Senior AWS CloudOps Engineer
+Role Overview:
+As a Senior AWS CloudOps Engineer, you’ll be responsible for the design, implementation, and maintenance of AWS infrastructure. You’ll drive automation efforts, ensure high availability, and manage cloud operations to optimize performance and cost.
+
+Key Responsibilities:
+
+Manage and scale AWS infrastructure, ensuring performance and cost efficiency.
+Automate routine cloud operations tasks using Terraform, CloudFormation, or scripting languages.
+Implement and maintain monitoring, alerting, and logging solutions (CloudWatch, ELK Stack).
+Optimize resource usage and ensure security by implementing IAM best practices and network security measures.
+Lead root-cause analysis and remediation efforts for incidents.
+Mentor junior engineers and review their work.
+Key Skills:
+
+Advanced knowledge of AWS services and infrastructure management.
+Proficiency in automation and infrastructure as code (CloudFormation, Terraform).
+Strong skills in monitoring and alerting tools, including CloudWatch and ELK Stack.
+Experience with scripting (Python, PowerShell, Bash).
+Understanding of cost optimization and security best practices on AWS.

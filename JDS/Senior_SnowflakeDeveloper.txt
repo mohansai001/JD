@@ -1,0 +1,21 @@
+Senior Snowflake Developer
+Role Overview: As a Senior Snowflake Developer, you will design and implement complex data solutions using Snowflake. You will work with data architects to create scalable, efficient data pipelines and ensure the optimal performance of the Snowflake platform.
+
+Key Responsibilities:
+
+Design and implement scalable data pipelines using Snowflake.
+Work with data engineers to ensure efficient data processing and storage.
+Write complex SQL queries for data extraction, transformation, and analysis.
+Optimize Snowflake performance for large-scale data processing.
+Implement data models, ensuring data integrity and consistency.
+Collaborate with business intelligence teams to ensure data is available for reporting and analysis.
+Provide mentorship and guidance to junior developers.
+Key Skills:
+
+Strong experience with Snowflake and cloud-based data platforms.
+Proficient in SQL, data modeling, and ETL processes.
+Knowledge of performance optimization techniques for Snowflake.
+Experience with cloud technologies (AWS, Azure, GCP).
+Familiarity with scripting languages (Python, Shell).
+Strong problem-solving skills and ability to troubleshoot data issues.
+Excellent communication and collaboration skills.

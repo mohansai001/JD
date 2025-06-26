@@ -1,0 +1,20 @@
+Job Title: Junior Angular Developer
+Role Overview:
+As a Junior Angular Developer, you will assist in developing, testing, and maintaining front-end applications using Angular. You will work closely with senior developers and UI/UX teams to build responsive and dynamic web applications while improving your coding and problem-solving skills.
+
+Key Responsibilities:
+Develop, test, and maintain Angular applications with a focus on UI/UX and performance.
+Implement responsive web designs using HTML, CSS, and TypeScript.
+Work with RESTful APIs to integrate backend services.
+Debug and troubleshoot UI/functional issues in web applications.
+Assist in optimizing application performance and improving user experience.
+Follow best coding practices and participate in code reviews.
+Collaborate with backend developers, designers, and other stakeholders to enhance functionality.
+Key Skills:
+Basic knowledge of Angular (Angular 8+), TypeScript, HTML, CSS, and JavaScript.
+Understanding of component-based architecture and Angular lifecycle hooks.
+Familiarity with RESTful API integration.
+Basic knowledge of state management (RxJS, NgRx is a plus).
+Understanding of version control systems like Git.
+Strong problem-solving and communication skills.
+Willingness to learn and adapt to new front-end technologies.

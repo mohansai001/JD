@@ -1,0 +1,18 @@
+Job Description: Lead CloudOps Engineer
+
+We are seeking a highly skilled Lead CloudOps Engineer to manage and optimize cloud infrastructure, ensuring high availability, scalability, and security. In this role, you will lead a team of engineers, automate deployment pipelines, monitor system performance, and resolve cloud infrastructure issues.
+
+Key Responsibilities:
+
+Design and implement robust cloud architecture.
+Manage and optimize CI/CD pipelines for seamless deployments.
+Ensure system reliability, scalability, and security compliance.
+Automate infrastructure tasks using tools like Terraform or Ansible.
+Lead incident management, root cause analysis, and performance tuning.
+Mentor and guide a team of CloudOps engineers.
+Qualifications:
+
+Proven experience in cloud platforms (AWS, Azure, GCP).
+Expertise in IaC tools (Terraform, CloudFormation).
+Strong knowledge of DevOps practices and containerization (Docker, Kubernetes).
+Excellent problem-solving and leadership skills.

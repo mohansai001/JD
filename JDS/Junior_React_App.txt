@@ -1,0 +1,19 @@
+Job Title: Junior React Developer
+Role Overview:
+As a Junior React Developer, you will assist in the development, testing, and maintenance of React-based web applications. You will work closely with senior developers and designers to build dynamic, responsive, and scalable front-end applications while enhancing your coding skills.
+
+Key Responsibilities:
+Develop, test, and maintain React applications using React.js, JavaScript, and TypeScript.
+Implement responsive web designs using HTML, CSS, and modern UI frameworks.
+Work with RESTful APIs and integrate backend services.
+Debug and troubleshoot UI/functional issues in web applications.
+Optimize application performance and enhance user experience.
+Participate in code reviews and follow best coding practices.
+Collaborate with backend developers, UI/UX designers, and stakeholders to improve functionality.
+Key Skills:
+Basic knowledge of React.js, JavaScript (ES6+), TypeScript, HTML, and CSS.
+Understanding of React hooks, state management (Context API, Redux is a plus), and component lifecycle.
+Familiarity with RESTful API integration.
+Basic understanding of Git and version control systems.
+Strong problem-solving and communication skills.
+Willingness to learn and adapt to new front-end technologies and frameworks.

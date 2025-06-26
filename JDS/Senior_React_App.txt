@@ -1,0 +1,25 @@
+Job Title: Senior React Developer
+Role Overview:
+As a Senior React Developer, you will be responsible for designing, developing, and optimizing scalable front-end applications using React.js. You will lead front-end development efforts, mentor junior developers, and collaborate with cross-functional teams to deliver high-performance and user-friendly web applications.
+
+Key Responsibilities:
+Architect, develop, and maintain React.js applications using modern JavaScript (ES6+) and TypeScript.
+Optimize UI/UX performance, responsiveness, and accessibility.
+Design and implement reusable components, hooks, and state management solutions (Redux, Context API, or Recoil).
+Work closely with backend developers to integrate RESTful APIs and GraphQL services.
+Implement performance optimizations, lazy loading, and efficient rendering techniques.
+Conduct code reviews, mentor junior developers, and enforce coding best practices.
+Troubleshoot and resolve complex UI/functional issues to ensure a seamless user experience.
+Stay updated with React best practices, new features, and front-end trends.
+Collaborate with UI/UX designers to improve usability and accessibility.
+Work with DevOps teams to ensure smooth CI/CD deployment of front-end applications.
+Key Skills:
+Expertise in React.js, JavaScript (ES6+), TypeScript, HTML, and CSS.
+Strong knowledge of React hooks, state management (Redux, Context API, or Recoil).
+Experience in RESTful API and GraphQL integration.
+Proficiency in component-based architecture and React lifecycle methods.
+Familiarity with front-end performance optimization techniques.
+Experience with unit testing frameworks (Jest, React Testing Library).
+Hands-on experience with Git, CI/CD pipelines, and Agile methodologies.
+Strong problem-solving, debugging, and leadership skills.
+Ability to collaborate with cross-functional teams and mentor junior developers.

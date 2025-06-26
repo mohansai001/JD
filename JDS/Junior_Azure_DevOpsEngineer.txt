@@ -1,0 +1,17 @@
+Junior Azure DevOps Engineer
+Role Overview:
+As a Junior Azure DevOps Engineer, you will assist in building and managing Azure cloud infrastructure. You’ll support the team in configuring and deploying Azure resources, setting up pipelines, and performing routine DevOps tasks.
+
+Key Responsibilities:
+
+Support the setup and configuration of Azure resources like VMs, Azure SQL, and Storage Accounts.
+Assist in creating CI/CD pipelines using Azure DevOps or GitHub Actions.
+Monitor and troubleshoot basic Azure infrastructure issues.
+Write scripts to automate routine tasks using PowerShell or Bash.
+Document configurations and follow best practices for deployment.
+Key Skills:
+
+Basic understanding of Azure services (VMs, Storage, Networking).
+Familiarity with CI/CD practices and tools, especially Azure DevOps.
+Basic scripting in PowerShell, Bash, or Python.
+Willingness to learn Azure DevOps tools and cloud services.

@@ -1,0 +1,19 @@
+Senior Azure DevOps Engineer
+Role Overview:
+As a Senior Azure DevOps Engineer, you’ll design and manage high-performing cloud environments on Azure. You will be responsible for automating infrastructure provisioning, establishing security protocols, and optimizing Azure resources.
+
+Key Responsibilities:
+
+Architect and manage scalable infrastructure on Azure, using services such as AKS, VMs, and App Services.
+Implement infrastructure as code using ARM Templates or Terraform for automated provisioning.
+Set up and maintain robust CI/CD pipelines in Azure DevOps.
+Ensure compliance and security by enforcing Azure security best practices, including identity and access management.
+Troubleshoot complex issues and implement preventive measures.
+Mentor junior engineers in Azure DevOps practices and tools.
+Key Skills:
+
+Strong knowledge of Azure services (VMs, App Services, AKS, etc.).
+Advanced skills in CI/CD tools, including Azure DevOps.
+Proficiency in Terraform or ARM Templates for infrastructure as code.
+Strong scripting abilities in PowerShell, Bash, or Python.
+Experience with containerization (AKS, Docker).

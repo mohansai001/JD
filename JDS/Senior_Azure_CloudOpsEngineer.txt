@@ -1,0 +1,19 @@
+Senior Azure CloudOps Engineer
+Role Overview:
+As a Senior Azure CloudOps Engineer, you will be responsible for managing and optimizing Azure infrastructure. You’ll implement automation, monitor cloud operations, and ensure that infrastructure meets security, compliance, and performance requirements.
+
+Key Responsibilities:
+
+Design and manage scalable and efficient Azure cloud infrastructure.
+Automate infrastructure management and deployment with ARM Templates, Terraform, or PowerShell.
+Implement and maintain monitoring and alerting solutions using Azure Monitor, Log Analytics, and Application Insights.
+Ensure security and compliance by enforcing best practices, including network security and IAM.
+Lead incident management, root-cause analysis, and preventative measures.
+Provide mentorship and support to junior engineers.
+Key Skills:
+
+Strong knowledge of Azure infrastructure management and services (VMs, Storage, AKS).
+Proficiency in automation and infrastructure as code (ARM Templates, Terraform).
+Advanced monitoring and alerting skills using Azure Monitor and Log Analytics.
+Proficient in scripting (PowerShell, Bash) and cloud security best practices.
+Ability to optimize costs and ensure compliance in Azure environments.

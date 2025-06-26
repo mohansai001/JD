@@ -1,0 +1,20 @@
+Lead WF-NET & ASP.NET Core Developer
+Role Overview: As a Lead WF-NET & ASP.NET Core Developer, you will lead a team of developers in building and maintaining large-scale enterprise applications. You will be responsible for architecture design, project delivery, and guiding your team to ensure successful project outcomes.
+
+Key Responsibilities:
+
+Lead the architecture and design of scalable, high-performance ASP.NET Core applications.
+Coordinate with business stakeholders to define project requirements and timelines.
+Oversee and guide the development team through complex coding challenges and solutions.
+Manage technical debt and ensure best practices are followed for maintainable code.
+Foster a culture of continuous learning and improvement within the development team.
+Ensure high standards of quality through code reviews, testing, and mentoring.
+Manage project risks and deliver on-time, high-quality software solutions.
+Key Skills:
+
+Proven leadership experience in ASP.NET Core development.
+Strong architectural skills and experience with enterprise-level applications.
+Deep understanding of databases, performance optimization, and distributed systems.
+Expertise in RESTful API design and microservices architecture.
+Experience with cloud platforms like Azure and AWS.
+Strong communication and project management skills.

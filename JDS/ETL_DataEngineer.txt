@@ -1,0 +1,46 @@
+Senior Software Engineer - ETL
+Primary Skill: Informatica PowerCenter, SQL, RDBMS
+Location: Hyderabad, Pune
+
+
+Industry: Insurance, Financial Services
+Employment Type: Full-Time
+Experience:  4-6 years
+
+Job Description
+Are you someone with an in-depth understanding of ETL and a strong background in developing Informatica PowerCenter ETL-based solutions who develop, document, unit test, and maintain ETL applications and deliver successful code meeting customer expectations? If yes, this opportunity can be the next step in your career. Read on.
+
+We are looking for a Informatica PowerCenter developer to join our Data leverage team – a team of high-energy individuals who thrive in a rapid-pace and agile product development environment. As a Developer, you will provide accountability in the ETL and Data Integration space, from the development phase through delivery. You will work closely with the Project Manager, Technical Lead, and client teams. Your prime responsibilities will be to develop bug free code with proper unit testing and documentation. You will provide inputs to planning, estimation, scheduling, and coordination of technical activities related to ETL-based applications. 
+
+You will be responsible for meeting development schedules and delivering high-quality ETL-based solutions that meet technical specifications and design requirements ensuring customer satisfaction. You are expected to possess good knowledge in ETL tools – Informatica PowerCenter.
+
+Why ValueMomentum?
+Headquartered in New Jersey, US, ValueMomentum is one of the fastest-growing software & solutions firms focused on the Insurance, Healthcare, and Financial Services domain. Our industry focus, expertise in technology backed by R&D and customer-first approach uniquely position us to deliver the value we promise and drive momentum to our customers’ initiatives. ValueMomentum is amongst the top 10 insurance-focused IT services firms in North America in terms of the number of customers. Leading insurers, banks, and healthcare firms trust ValueMomentum with their core transformation and digital transformation initiatives.
+
+Your Key Responsibilities
+	4+ years of Data development experience of working on data projects (Datawarehouse, Informatica PowerCenter) 
+	Experience in processes for constructing mappings, sessions, workflows, schedules, parameter files and prepare corresponding documentation
+	Designs and builds integrations supporting standard data warehousing objects (dimensions, aggregations, star schema, etc.).
+	Good knowledge of SQL and relational databases. 
+	Good understanding of SDLC and Agile Methodologies
+	Experience with Linux and Windows Server environments
+	Strong problem-solving skills and analytical skills with proven strength in applying root-cause analysis
+	Ability to communicate verbally and in technical writing to all levels of the organization in a proactive, contextually appropriate manner
+	Strong teamwork and interpersonal skills at all levels
+	Dedicated to excellence in one’s work; strong organizational skills; detail-oriented and thorough
+	Hands on experience on support activities, able to create and resolve the tickets – Jira, ServiceNow, Azure DevOps
+
+What you need (knowledge, Skills & Experience)
+	Strong experience in ETL tools –Informatica PowerCenter
+	Experience of working in Onsite/Offshore model
+	4+ years of experience in Informatica PowerCenter development
+
+What we offer
+	Competitive compensation package comparable to the best in the industry.
+	Career Advancement: Individual Career Development, coaching, and mentoring programs for professional and leadership skill development.
+	Comprehensive training and certification programs.
+	Performance Management: Goal Setting, continuous feedback, and year-end appraisal. Reward & recognition for the extraordinary performers.
+	Benefits: Comprehensive health benefits, wellness, and fitness programs. Paid time off and holidays.
+	Culture: A highly transparent organization with an open-door policy and a vibrant culture 
+
+		****

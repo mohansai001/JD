@@ -1,0 +1,18 @@
+Junior Azure Site Reliability Engineer
+Role Overview:
+As a Junior Azure Site Reliability Engineer, you’ll support the availability and performance of Azure-based applications by monitoring resources and responding to incidents. You’ll also assist with automating operational tasks.
+
+Key Responsibilities:
+
+Monitor Azure infrastructure using Azure Monitor and Application Insights.
+Assist with incident response, troubleshooting, and basic performance tuning.
+Contribute to automation scripts in PowerShell, Bash, or Python for common tasks.
+Support CI/CD processes and deployment automation to improve efficiency.
+Document resolutions and improve response procedures.
+Key Skills:
+
+Basic knowledge of Azure services (VMs, Azure SQL, Storage, Azure Monitor).
+Familiarity with monitoring and alerting tools like Azure Monitor and Application Insights.
+Basic scripting skills (PowerShell, Bash) for task automation.
+Eagerness to learn reliability engineering and Azure best practices.
+Strong problem-solving and documentation skills.

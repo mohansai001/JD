@@ -1,0 +1,57 @@
+Job Description: Azure Data Engineer
+
+
+Job Title: Azure Data Engineer 
+Primary skills: Azure Data Factory, Azure Synapse, Azure Datalake, Advanced SQL
+Secondary skills: PySpark, Databricks
+Mode of work: Work from Office
+Experience: 5 to 7 Years.
+About the job
+We are seeking a highly skilled Azure Data Engineer with expertise in Azure Data Factory (ADF) and Azure Synapse Analytics to join our dynamic team within our organization. This role involves integrating seamlessly with Internal Development Platforms (IDP) and other tools to enhance the developer experience on the Azure. The ideal candidate will have a strong background in data integration, ETL processes, and data warehousing. This role involves designing, developing, and maintaining data solutions that support our business intelligence and analytics initiatives.
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+Responsibilities
+•	Design & Develop the ETL
+•	Good experience in writing SQL, Python and PySpark programming.
+•	Create the Pipelines (simple and complex) using ADF.
+•	Work with other Azure stack modules like Azure Data Lakes, SQL DW
+•	Must be extremely well versed with handling large volume of data.
+•	Understand the business requirements for Data flow process needs.
+•	Understand requirements, functional and technical specification documents.
+•	Development of mapping document and transformation business rules as per scope and requirements/Source to target.
+•	Responsible for continuous formal and informal communication on project status
+•	Good understanding of JIRA stories process for SQL development activities
+
+Requirements
+Must Have:
+•	5 to 7 years of Experience in developing data ingestion, data processing and analytical pipelines for big data, relational databases, and data warehouse solutions.
+•	Extensive hands-on experience implementing data migration and data processing using Azure services: ADLS, Azure Data Factory, Azure Functions, Synapse, Azure SQL DB, etc.
+•	Experience in Data Sets, Data Frame, Azure Blob & Storage Explorer
+•	Must have hands on experience in programming like python/PySpark using Dataframes, SQL and procedural SQL languages.
+•	Well versed in DevOps and CI/CD deployments.
+•	Have good understanding on Agile/Scrum methodologies.
+•	Strong attention to detail in high-pressure situations.
+•	Experience in the insurance (e.g., UW, Claim, Policy Issuance) or financial industry preferred
+•	Excellent problem-solving skills and the ability to troubleshoot complex issues in distributed systems. 
+•	Effective communication and collaboration skills, with the ability to effectively interact with stakeholders at all levels.
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****

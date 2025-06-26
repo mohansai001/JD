@@ -1,0 +1,18 @@
+Lead AWS DevOps Engineer
+Role Overview:
+As a Lead AWS DevOps Engineer, you will define the DevOps strategy, lead cloud architecture projects, and ensure the scalability and security of AWS infrastructure. You’ll also mentor the DevOps team and collaborate with other technical leaders.
+
+Key Responsibilities:
+
+Lead the design and architecture of secure, scalable AWS environments using best practices.
+Oversee CI/CD pipeline development and ensure process reliability.
+Manage complex infrastructure through infrastructure as code (Terraform, CloudFormation).
+Establish monitoring, alerting, and backup strategies for critical resources.
+Guide and mentor DevOps engineers, enforcing AWS best practices and company standards.
+Collaborate with engineering and product teams to optimize development workflows and cloud usage.
+Key Skills:
+
+Expertise in AWS cloud architecture and services, including security and cost management.
+Proficiency in CI/CD processes, automation, and infrastructure as code.
+Strong containerization and orchestration skills with ECS, EKS, or Docker.
+Leadership skills with a focus on coaching, collaboration, and project planning.

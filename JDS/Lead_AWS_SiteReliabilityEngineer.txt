@@ -1,0 +1,18 @@
+Lead AWS Site Reliability Engineer
+Role Overview:
+As a Lead AWS Site Reliability Engineer, you will define and implement reliability engineering practices to ensure system stability, security, and scalability. You’ll lead incident response and oversee AWS infrastructure performance, collaborating closely with engineering teams.
+
+Key Responsibilities:
+
+Define SRE strategies and best practices for AWS systems, focusing on high availability and resiliency.
+Lead automation of incident response, deployments, and recovery processes with Infrastructure as Code.
+Establish monitoring, logging, and disaster recovery strategies for critical AWS applications.
+Oversee security, compliance, and cost optimization within AWS environments.
+Mentor and guide SRE team members and facilitate cross-functional collaboration with other teams.
+Key Skills:
+
+Expert knowledge of AWS services, architecture, and best practices in reliability engineering.
+Advanced skills in automation, monitoring, and infrastructure management.
+Proficiency in incident management, root-cause analysis, and post-mortem documentation.
+Experience with security, compliance, and cost management on AWS.
+Leadership and project management skills with a focus on collaboration and mentorship.

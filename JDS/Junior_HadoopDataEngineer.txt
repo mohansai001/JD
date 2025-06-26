@@ -1,0 +1,18 @@
+Junior Hadoop Data Engineer
+Role Overview: As a Junior Hadoop Data Engineer, you will assist in building and maintaining large-scale data processing systems using the Hadoop ecosystem. You will work on ingesting, transforming, and storing data efficiently using Hadoop and related technologies.
+
+Key Responsibilities:
+
+Assist in the design, development, and maintenance of Hadoop-based data pipelines.
+Perform data transformations using tools such as Hive, Pig, and Spark.
+Help with data ingestion from various sources (e.g., HDFS, S3).
+Monitor and troubleshoot data processing tasks.
+Write basic scripts to automate data processing and workflows.
+Collaborate with data scientists and analysts to ensure data is structured and accessible.
+Key Skills:
+
+Basic knowledge of Hadoop ecosystem tools (HDFS, Hive, Pig, Spark).
+Familiarity with SQL and relational databases.
+Basic understanding of data structures and algorithms.
+Knowledge of scripting languages like Python or Bash.
+Strong problem-solving skills and willingness to learn.

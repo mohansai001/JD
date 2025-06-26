@@ -1,0 +1,17 @@
+Junior AWS Platform Engineer
+Role Overview:
+As a Junior AWS Platform Engineer, you will assist with the setup and maintenance of AWS-based platforms. You’ll support infrastructure development, help build tools to improve developer productivity, and collaborate with other team members on day-to-day operations.
+
+Key Responsibilities:
+
+Assist in managing AWS resources (EC2, S3, RDS, etc.) and deploying infrastructure to support applications.
+Support the creation and maintenance of CI/CD pipelines for platform development and application deployment.
+Monitor platform performance, troubleshoot issues, and implement logging/monitoring tools.
+Write basic automation scripts to simplify routine tasks (using Python or Bash).
+Document processes, infrastructure changes, and incident resolutions.
+Key Skills:
+
+Basic understanding of AWS services and infrastructure (EC2, IAM, VPC, S3).
+Familiarity with CI/CD tools like CodePipeline or Jenkins.
+Scripting skills in Python, Bash, or PowerShell for task automation.
+Eagerness to learn cloud infrastructure management and automation practices.

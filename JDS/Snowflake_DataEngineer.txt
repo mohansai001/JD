@@ -1,0 +1,58 @@
+Job Description: Snowflake Developer
+
+
+Job Title: Snowflake Developer 
+Primary skills: Snowflake, Advanced SQL
+Secondary skills: PySpark
+Mode of work: Work from Office
+Experience: 5 to 7 Years.
+About the job
+We are seeking a highly skilled Snowflake Developer to join our dynamic team within our organization. This role involves integrating seamlessly with Internal Development Platforms (IDP) and other tools to enhance the developer experience on the Snowflake platform. The ideal candidate will have a strong background in data integration, ETL processes, and data warehousing. You will be responsible for designing, developing, and maintaining data solutions that support our business intelligence and analytics initiatives. 
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+Responsibilities
+•	Design, develop, and optimize data integration solutions and ETL pipelines using Snowflake to ingest, transform, and load data from various sources.
+•	Build and maintain data models and data warehousing solutions on the Snowflake platform, ensuring high performance and scalability.
+•	Perform data migration, data cleansing, and data transformation tasks using Snowflake features like Snowpipe, Streams, and Tasks.
+•	Must be extremely well versed with handling large volume of data.
+•	Write efficient SQL queries, optimize data processing workflows, and ensure data quality within Snowflake.
+•	Work with cross-functional teams to define data requirements and develop data solutions that meet business needs.
+•	Understand requirements, functional and technical specification documents.
+•	Development of mapping document and transformation business rules as per scope and requirements/Source to target.
+•	Responsible for continuous formal and informal communication on project status
+•	Good understanding of JIRA stories process for SQL development activities
+
+Requirements
+Must Have:
+•	5 to 7 years of Experience in developing data ingestion, data processing and analytical pipelines for big data, relational databases, and data warehouse solutions.
+•	Extensive hands-on experience as a Snowflake Developer or similar role with strong expertise in Snowflake architecture and data integration.
+•	Strong knowledge of SQL and Snowflake SQL for building queries, stored procedures, and working with Snowflake’s data warehousing solutions
+•	Must have hands on experience with python/PySpark using Dataframes, SQL and procedural SQL languages.
+•	Familiarity with cloud platforms (AWS or Azure) and how they integrate with Snowflake.
+•	Well versed in DevOps and CI/CD deployments.
+•	Have good understanding on Agile/Scrum methodologies.
+•	Strong attention to detail in high-pressure situations.
+•	Experience in the insurance (e.g., UW, Claim, Policy Issuance) or financial industry preferred
+•	Excellent problem-solving skills and the ability to troubleshoot complex issues in distributed systems. 
+•	Effective communication and collaboration skills, with the ability to effectively interact with stakeholders at all levels.
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****

@@ -1,0 +1,18 @@
+Lead Azure DevOps Engineer
+Role Overview:
+As a Lead Azure DevOps Engineer, you will define the strategic direction for DevOps on Azure, lead architecture initiatives, and drive process improvements. You’ll also coach and mentor the DevOps team and work closely with cross-functional teams to deliver scalable solutions.
+
+Key Responsibilities:
+
+Lead Azure architecture projects, ensuring efficient, secure, and resilient cloud deployments.
+Develop and optimize CI/CD processes with Azure DevOps, ensuring reliable and efficient release cycles.
+Implement infrastructure as code (ARM Templates, Terraform) to automate resource provisioning and management.
+Lead the implementation of security and governance policies across Azure infrastructure.
+Mentor the team and enforce Azure best practices, improving team knowledge and skills.
+Collaborate with other engineering teams to integrate and streamline DevOps workflows.
+Key Skills:
+
+Expertise in Azure cloud architecture, services, and best practices.
+Proficiency in CI/CD processes, automation, and infrastructure as code.
+Strong knowledge of AKS, Docker, and container orchestration on Azure.
+Proven leadership and project management experience with cross-team collaboration.

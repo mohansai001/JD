@@ -1,0 +1,20 @@
+Junior Java Fullstack Developer
+Role Overview: As a Junior Java Fullstack Developer, you will assist in the development of web applications using Java for the back-end and modern front-end technologies (like HTML, CSS, JavaScript). You will work alongside experienced developers to build and maintain scalable web applications.
+
+Key Responsibilities:
+
+Assist in the development of front-end and back-end components of web applications.
+Write clean, maintainable, and efficient Java code using frameworks like Spring Boot.
+Develop and integrate RESTful APIs.
+Work with front-end technologies (HTML, CSS, JavaScript) to create seamless user interfaces.
+Collaborate with QA teams to ensure the application meets requirements and is properly tested.
+Debug and troubleshoot issues in both front-end and back-end systems.
+Participate in code reviews and learn from senior developers.
+Key Skills:
+
+Basic knowledge of Java and Java frameworks (Spring Boot, Hibernate).
+Familiarity with front-end technologies (HTML, CSS, JavaScript, React/Angular).
+Understanding of RESTful APIs and web services.
+Knowledge of relational databases (e.g., MySQL, PostgreSQL).
+Experience with version control systems (Git).
+Ability to work in a team and willingness to learn.

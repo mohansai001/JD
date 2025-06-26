@@ -1,0 +1,17 @@
+Junior AWS DevOps Engineer
+Role Overview:
+As a Junior AWS DevOps Engineer, you’ll assist with the setup, maintenance, and monitoring of AWS infrastructure. You will work on automating deployment processes and supporting day-to-day DevOps tasks under guidance.
+
+Key Responsibilities:
+
+Assist with setting up and maintaining AWS services (EC2, S3, RDS, etc.).
+Build and support CI/CD pipelines using AWS CodePipeline, Jenkins, or GitHub Actions.
+Monitor and troubleshoot AWS resources, responding to incidents with guidance.
+Contribute to automation scripts for operational tasks in Python or Bash.
+Document processes and follow AWS best practices for deployments and infrastructure management.
+Key Skills:
+
+Basic understanding of core AWS services (EC2, S3, IAM, etc.).
+Familiarity with CI/CD tools and basic scripting in Python or Bash.
+Understanding of infrastructure as code (IAC) tools, like AWS CloudFormation or Terraform.
+Eager to learn AWS services and DevOps best practices.

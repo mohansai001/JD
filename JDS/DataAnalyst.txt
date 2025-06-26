@@ -1,0 +1,58 @@
+Job Description: Data Analyst
+
+
+Job Title: Data Analyst 
+Primary skills: SQL, Python, Power BI/Tableau, Data Warehousing
+Mode of work: Work from Office
+Experience: 5-7 Yrs.
+About the job
+We are seeking a highly skilled Senior Data Analyst with expertise in Azure Services to play a pivotal role in designing and developing data solutions within our organization. 
+Know your team
+At ValueMomentum’s Engineering Center, we are a team of passionate engineers who thrive on tackling complex business challenges with innovative solutions while transforming the P&C insurance value chain. We achieve this through strong engineering foundation and continuously refining our processes, methodologies, tools, agile delivery teams, and core engineering archetypes. Our core expertise lies in six key areas: Cloud Engineering, Application Engineering, Data Engineering, Core Engineering, Quality Engineering, and Domain expertise.
+Join a team that invests in your growth. Our Infinity Program empowers you to build your career with role-specific skill development leveraging immersive learning platforms. You'll have the opportunity to showcase your talents by contributing to impactful projects.
+Responsibilities
+•	Interpret data, analyze results using statistical techniques, and provide ongoing reports.
+•	Develop and implement databases, data collection systems, data analytics, and other strategies that optimize statistical efficiency and quality.
+•	Acquire data from primary or secondary data sources and maintain databases/data systems.
+•	Identify, analyze, and interpret trends or patterns in complex data sets.
+•	Filter and clean data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems.
+•	Work closely with management to prioritize business and information needs.
+•	Locate and define new process improvement opportunities.
+
+Requirements
+•	Proven working experience as a Data Analyst or Business Data Analyst.
+•	Technical expertise regarding data models, database design development, data mining, and segmentation techniques.
+•	Strong knowledge of and experience with reporting packages (Business Objects, Tableau, Power BI), databases (SQL, etc.), programming (XML, JavaScript, or ETL frameworks), and data visualization (Power BI, Tableau, etc.).
+•	Demonstrated analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+•	Adept at queries, report writing, and presenting findings.
+•	Experience working with large datasets and distributed computing tools (Hadoop, Spark, etc.)
+•	Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, etc.).
+•	Experience with data profiling tools and processes.
+•	Knowledge of Microsoft Fabric is desirable.
+•	Professional experience as a Data Modeler/Data Architect in diverse industries, with a preference for P&C Insurance.
+•	Effective communication and collaboration skills, with the ability to effectively interact with stakeholders at all levels.
+
+Good to Have:
+•	Insurance domain knowledge.
+•	Experience with CI/CD pipelines.
+•	Strong understanding of Agile/Scrum methodologies
+
+About ValueMomentum
+ValueMomentum is a leading solutions provider for the global property & casualty insurance industry, supported by deep domain and technology capabilities. We offer a comprehensive suite of advisory, development, implementation, and maintenance services across the entire P&C insurance value chain. This includes Underwriting, Claims, Distribution, and more, empowering insurers to stay ahead with sustained growth, high performance, and enhanced stakeholder value.  Trusted by over 75 insurers, ValueMomentum is one of the largest standalone insurance-focused solutions providers to the US insurance industry. 
+
+Our culture – Our fuel
+At ValueMomentum, we believe in making employees win by nurturing them from within, collaborating and looking out for each other.
+•	People first - Empower employees to succeed.
+•	Nurture leaders - Nurture from within.
+•	Enjoy wins – Recognize and celebrate wins.
+•	Collaboration – Foster a culture of collaboration and people-centricity.
+•	Diversity – Committed to diversity, equity, and inclusion.
+•	Fun – Create a fun and engaging work environment.
+•	Warm welcome – Provide a personalized onboarding experience.
+
+Company Benefits
+•	Compensation - Competitive compensation package comparable to the best in the industry.
+•	Career Growth - Career development, comprehensive training & certification programs, and fast track growth for high potential associates.
+•	Benefits: Comprehensive health benefits and life insurance.
+
+****
